@@ -1,0 +1,14 @@
+C:\Users\anton.petuhov\source\repos\Alinity_console\Alinity_console\bin\Debug\Alinity_console.exe.config
+C:\Users\anton.petuhov\source\repos\Alinity_console\Alinity_console\bin\Debug\Alinity_console.exe
+C:\Users\anton.petuhov\source\repos\Alinity_console\Alinity_console\bin\Debug\Alinity_console.pdb
+C:\Users\anton.petuhov\source\repos\Alinity_console\Alinity_console\obj\Debug\Alinity_console.exe
+C:\Users\anton.petuhov\source\repos\Alinity_console\Alinity_console\obj\Debug\Alinity_console.pdb
+C:\Users\anton.petuhov\source\repos\Alinity_console\Alinity_console\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\anton.petuhov\source\repos\Alinity_console\Alinity_console\bin\Debug\System.Security.AccessControl.dll
+C:\Users\anton.petuhov\source\repos\Alinity_console\Alinity_console\bin\Debug\System.Security.Permissions.dll
+C:\Users\anton.petuhov\source\repos\Alinity_console\Alinity_console\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\anton.petuhov\source\repos\Alinity_console\Alinity_console\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\anton.petuhov\source\repos\Alinity_console\Alinity_console\bin\Debug\System.Security.AccessControl.xml
+C:\Users\anton.petuhov\source\repos\Alinity_console\Alinity_console\bin\Debug\System.Security.Permissions.xml
+C:\Users\anton.petuhov\source\repos\Alinity_console\Alinity_console\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\anton.petuhov\source\repos\Alinity_console\Alinity_console\obj\Debug\Alinity_console.csproj.CopyComplete
